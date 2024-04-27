@@ -30,6 +30,8 @@ Development of the "Calculator" project presented various challenges and learnin
 
 ## Video
 
+https://github.com/EngDann/Calculator/assets/137555908/3363f5b4-db7b-4962-a18d-b076582222f6
+
 ## How to Use
 
 To use the "Calculator", follow these steps:
@@ -140,6 +142,8 @@ O desenvolvimento do projeto "Calculadora" apresentou diversos desafios e oportu
 -   Aplicação de técnicas de código limpo para manutenibilidade e legibilidade.
 
 ## Video
+
+https://github.com/EngDann/Calculator/assets/137555908/3363f5b4-db7b-4962-a18d-b076582222f6
 
 ## Como Usar
 
